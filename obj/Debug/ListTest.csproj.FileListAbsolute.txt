@@ -1,0 +1,10 @@
+C:\C#\ListTest\bin\Debug\ListTest.exe.config
+C:\C#\ListTest\bin\Debug\ListTest.exe
+C:\C#\ListTest\bin\Debug\ListTest.pdb
+C:\C#\ListTest\obj\Debug\ListTest.csproj.AssemblyReference.cache
+C:\C#\ListTest\obj\Debug\ListTest.csproj.SuggestedBindingRedirects.cache
+C:\C#\ListTest\obj\Debug\ListTest.csproj.CoreCompileInputs.cache
+C:\C#\ListTest\obj\Debug\ListTest.exe
+C:\C#\ListTest\obj\Debug\ListTest.pdb
+C:\C#\ListTest\obj\Debug\ListTest.TestForm.resources
+C:\C#\ListTest\obj\Debug\ListTest.csproj.GenerateResource.cache
